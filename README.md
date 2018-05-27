@@ -1,0 +1,2 @@
+# shortMessageService
+一个独立的短信服务，采用的springBoot+activemq，短信服务采用的阿里大于。需要配置你的相关个人短信服务信息和activemq消息名称、服务器启动便可。
